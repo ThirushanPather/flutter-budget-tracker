@@ -1,16 +1,35 @@
-# budget_project
+# Flutter Budget Tracker
 
-A new Flutter project.
+A mobile budget tracking application built with Flutter to help users manage their finances and track expenses.
 
-## Getting Started
+## Demo
+![Budget Tracker Demo](financeApp.gif)
 
-This project is a starting point for a Flutter application.
+## Features
+- Track income and expenses
+- Categorize transactions
+- Visual spending analytics
+- Budget management
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- **Flutter** - Cross-platform mobile development
+- **Dart** - Programming language
+- **Firebase** - Database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+**```bash**
+git clone https://github.com/ThirushanPather/flutter-budget-tracker.git
+cd flutter-budget-tracker
+**```**
+
+2. Install dependencies:
+**```bash**
+flutter pub get
+**```**
+
+3. Run the app:
+**```bash**
+bashflutter run
+**```**
