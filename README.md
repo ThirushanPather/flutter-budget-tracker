@@ -19,17 +19,17 @@ A mobile budget tracking application built with Flutter to help users manage the
 ## Installation
 
 1. Clone the repository:
-**```bash
+```
 git clone https://github.com/ThirushanPather/flutter-budget-tracker.git
 cd flutter-budget-tracker
-```**
+```
 
 2. Install dependencies:
-**```bash
+```
 flutter pub get
-```**
+```
 
 3. Run the app:
-**```bash
+```
 bashflutter run
-```**
+```
