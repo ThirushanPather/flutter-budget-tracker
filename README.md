@@ -3,7 +3,7 @@
 A mobile budget tracking application built with Flutter to help users manage their finances and track expenses.
 
 ## Demo
-![Budget Tracker Demo](financeApp.gif)
+<img src="financeApp.gif" alt="Budget Tracker Demo" width="320"/>
 
 ## Features
 - Track income and expenses
